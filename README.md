@@ -1,3 +1,5 @@
+// need to install github
+
 git config --global user.email "your@email.com" && git config --global user.name "yourusername" && git config --global user.name
 
 rm -rf .git
